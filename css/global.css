@@ -1,6 +1,6 @@
 html { box-sizing:border-box; }*,*:before,*:after{ box-sizing:inherit; }
 html { -ms-text-size-adjust:100%; -webkit-text-size-adjust:100%; } body { margin:0; }
-html, body{ font-family:Cambria;font-size:20px;line-height:1.5; background:linear-gradient(to right, #e0f9ff, #d8f8ff);} html{overflow-x:hidden;}
+html, body{ font-family:Cambria;font-size:20px;line-height:1.5; background:linear-gradient(to right, #e0f9ff, #000);} html{overflow-x:hidden;}
 hr{border:0;border-top:1px solid #bbb;margin:20px 0}
 button:hover{ cursor:pointer; }
 textarea { resize:none; }
